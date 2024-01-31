@@ -1,2 +1,2 @@
 # Cpts223
-Data
+Assignments for the Advanced Data Structures C/C++ course
